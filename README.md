@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeremie Merchant "@jmerch"
+- 👋 Hi, I’m Jeremie Merchant "@jmerch81"
 - 👀 I’m interested in becoming either a data scientist or a machine learning engineer.
 - 🌱 I’m currently learning data scientist, machine learning and artificial intelligence tools.
 - 💞️ I’m looking to collaborate on coding projects, hackathons, and learning new technologies in the machine learning and artificial intelligence realm.
